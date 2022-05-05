@@ -1,0 +1,12 @@
+- Link HTTPS
+- git close
+- cd (link da pasta)
+- git add . (adicionar arquivos novos)
+- git status
+
+Para adicionar as mudanças no GitHub:
+- git commit -m "mensagem de sua escolha"
+
+- git status
+
+- git push origin main
