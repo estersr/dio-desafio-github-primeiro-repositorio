@@ -10,3 +10,22 @@ Para adicionar as mudanças no GitHub:
 - git status
 
 - git push origin main
+
+ATALHOS INTELLIJ
+
+//ctrl alt v pra acrescentar a variavel int, double etc
+        // ctrl shift k para fazer o push
+        //ctrl k abrir area do commit
+        // shft ctrl f10 atualizar td, shft f10 so atualizar
+        // alt enter criar variavel
+        // alt insert generate
+        // ctrl shift altera a linha de lugar
+        //ctrl y deletar linha, ctrl z recuperar o que apagou
+        // ctrl d para duplicar linha
+        // ctrl alt l para identar
+        // ctrl alt o apaga os imports nao utilizados
+        // int a = 5;
+        //int b = 3
+        //System.out.println("Hello World! " + (a+b));
+	//ctrl f4 fechar janelas abertas
+	//ctrl n procurar classes
